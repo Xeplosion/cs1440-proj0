@@ -1,0 +1,22 @@
+TUTR_REVISION=46b1b4e
+TIME=1726465118
+UNAME=MINGW64_NT-10.0-22631
+SHELL=/usr/bin/bash
+BASH_VERSION=5.2.26(1)-release
+git version 2.44.0.windows.1
+
+0-basics.sh	1725398350	1551	lesson_complete
+d9eafc6171c23c41e70544d092eb09ed511ef294
+1-commands.sh	1726329947	760	lesson_complete
+e64dbc26b535c58a206ff2eaed713b875246ea82
+2-files.sh	1726330400	442	lesson_complete
+7f38497bb46b264b75aa4c9bdc46063a5f8edfe1
+3-directories.sh	1726330791	386	lesson_complete
+d0bca9099cbb86e6ff4e0449c43930a7d6727c9f
+4-projects.sh	1726331606	810	lesson_complete
+0b8c1a3136d70ec4bb943b5b0213b1ee92cadf82
+5-ssh-key.sh	1726331666	56	lesson_complete
+21335a13dd6ad128ab84f34cc3d26e36c1186caa
+6-git.sh	1726459072	127398	lesson_complete
+5dbcb1133e66982f1ade2d329f2691b9557d461b
+ccd1324504c9556e5e23828581de8959805fa42a
