@@ -1,17 +1,17 @@
-# Header  
-## Second header
+# CS 1440 Project 0: Example - Developer Documentation
 
-* list 1
-* list 2
-* list 3
+## heading 2
 
-``` python
+`inline-text-block`
+
+**bold**
+
+- list
+- thinkgs
+- lmao
+
+```python
 import code
-
-dosomething:
-	thing
-	return
-
+def do_something():
+ return "something"
 ```
-
-** bold  **
