@@ -58,6 +58,8 @@ Deliver:
     *   For any bugs discovered, describe their cause and remedy.
     *   Write your test cases in plain language such that a non-coder could run them and replicate your experience.
 
+I am going to look through the code and look for a bug causing the program to not run correctly.
+
 
 ## Phase 4: Deployment
 *(5% of your effort)*
