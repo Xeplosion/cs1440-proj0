@@ -47,6 +47,9 @@ Deliver:
 *   [ ] Note any relevant and interesting events that happened while you wrote the code.
     *   e.g. things you learned, things that didn't go according to plan.
 
+When running the program the code didn't output the way that it was expected to. Upon closer inspection the problem was
+revealed to be that instead of printing empty spaces it just printed nothing. An else statement was added to fix this.
+
 
 ## Phase 3: Testing and Debugging
 *(30% of your effort)*
@@ -59,6 +62,8 @@ Deliver:
     *   Write your test cases in plain language such that a non-coder could run them and replicate your experience.
 
 I am going to look through the code and look for a bug causing the program to not run correctly.
+
+Added an else statement to print spaces when neccessary.
 
 
 ## Phase 4: Deployment
