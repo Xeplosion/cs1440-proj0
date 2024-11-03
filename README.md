@@ -1,17 +1,3 @@
-# CS 1440 Project 0: Example - Developer Documentation
+# Function Plotter
 
-## heading 2
-
-`inline-text-block`
-
-**bold**
-
-- list
-- thinkgs
-- lmao
-
-```python
-import code
-def do_something():
- return "something"
-```
+This program uses Python to plot the output of different mathematical functions to the terminal.
